@@ -1,0 +1,7 @@
+<!DOCTYPE html>
+<html lang="zh-CN"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>@@TITLE@@</title>
+<script defer src="https://cdn.tailwindcss.com" onload="tailwind.config={corePlugins:{preflight:false}}"></script>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/font-awesome@4.7.0/css/font-awesome.min.css"><style>@@STYLE@@</style></head>
+<body><nav>@@NAV@@</nav><main>@@MAIN@@<footer class="bottom">@@FOOTER@@</footer></main>
+<dialog class="lightbox" id="lightbox" aria-label="截图放大查看"><div class="inner"><button class="close" autofocus>关闭 ×</button><img alt="放大的原视频截图"><p></p></div></dialog>
+<script>@@SCRIPT@@</script></body></html>

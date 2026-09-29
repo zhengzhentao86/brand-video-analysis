@@ -1,0 +1,4 @@
+interface:
+  display_name: "品牌视频经营分析"
+  short_description: "从素材表和原视频生成结论先行、指导制作与经营优化的可视化报告"
+  default_prompt: "使用 $brand-video-analysis 分析这些素材：产品【名称】，用途【广告投放/种草】，数据【表格链接或文件】，给出结论先行的 HTML 报告。"
